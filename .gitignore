@@ -1,4 +1,7 @@
-.env
-.env.local
+.env*
+!.env.example
 dist/
 node_modules/
+*.p8
+*.pem
+*.key
